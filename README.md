@@ -10,19 +10,7 @@ ElectricSpawners 让你可以将已修复的刷怪笼制作成电力刷怪笼。
 
 ## 下载 ElectricSpawners
 
-**自动更新**: 汉化版#4及以上版本已包含自动更新功能，默认开启
-
-你可以在这里下载ElectricSpawners: [下载ElectricSpawners](https://builds.guizhanss.net/ybw0014/ElectricSpawners-CN/master)
-
-<p align="center">
-  <a href="https://github.com/ybw0014/ElectricSpawners-CN/actions/workflows/maven.yml">
-    <img src="https://github.com/ybw0014/ElectricSpawners-CN/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
-  </a>
-
-  <a href="https://builds.guizhanss.net/ybw0014/ElectricSpawners-CN/master">
-    <img src="https://builds.guizhanss.net/f/ybw0014/ElectricSpawners-CN/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 ElectricSpawners](https://resources.guizhanss.com/plugin/ElectricSpawners)
 
 ## Discord
 
